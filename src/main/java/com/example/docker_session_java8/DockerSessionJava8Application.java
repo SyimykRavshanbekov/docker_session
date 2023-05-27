@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DockerSessionJava8Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DockerSessionJava8Application.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(DockerSessionJava8Application.class, args);
+    }
 
 }
